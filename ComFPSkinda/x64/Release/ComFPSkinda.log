@@ -1,0 +1,5 @@
+﻿  ComFPSkinda.cpp
+C:\Users\prana\source\repos\ComFPSkinda\ComFPSkinda\ComFPSkinda.cpp(20,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prana\source\repos\ComFPSkinda\ComFPSkinda\ComFPSkinda.cpp(145,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prana\source\repos\ComFPSkinda\ComFPSkinda\ComFPSkinda.cpp(159,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\prana\source\repos\ComFPSkinda\x64\Release\ComFPSkinda.exe'

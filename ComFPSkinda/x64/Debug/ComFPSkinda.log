@@ -1,0 +1,4 @@
+﻿  ComFPSkinda.cpp
+C:\Users\prana\source\repos\ComFPSkinda\ComFPSkinda\ComFPSkinda.cpp(156,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prana\source\repos\ComFPSkinda\ComFPSkinda\ComFPSkinda.cpp(165,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ComFPSkinda.vcxproj -> C:\Users\prana\source\repos\ComFPSkinda\x64\Debug\ComFPSkinda.exe
